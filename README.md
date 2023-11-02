@@ -11,7 +11,7 @@
 - 📫 How to reach me **amgain02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<h3> personal website  <a href="https://sammanamgain.github.io/">click here</a> </h3>
+<h3> personal website  <a href="https://sammanamgain.github.io/Personal_website_samman/">click here</a> </h3>
 <p align="left">
 </p>
 
