@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine learning ,MERN stack**
 
-- 💬 Ask me about **Flutter , MySQL,C++,dart,Javascript**
+- 💬 Ask me about **Flutter, Node.js, Express.js, MongoDB, React,Dart, Javascript and python *
 
 - 📫 How to reach me **amgain02@gmail.com**
 
