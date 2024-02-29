@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS,DSA**
 
-- 👨‍💻 All of my projects are available at [https://sammanamgain.github.io/PORTFOLIO/project](https://sammanamgain.github.io/PORTFOLIO/project)
+- 👨‍💻 All of my projects are available at [sammanamgain.com.np](sammanamgain.com.np)
 
 - 💬 Ask me about **javascript,react, python ,node ,express,mongoDB**
 
